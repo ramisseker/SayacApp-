@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1019131716382",
+    "firebase_url": "https://sayacapp-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "sayacapp",
+    "storage_bucket": "sayacapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019131716382:android:a6102c322a489b35a4df0f",
+        "android_client_info": {
+          "package_name": "com.sayacapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019131716382-pvra66gtio4o0470q38qqn3n4fh3do1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArhgb7C8s7svDPh1l0iCX8FIk7Ao-vbL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019131716382-pvra66gtio4o0470q38qqn3n4fh3do1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
